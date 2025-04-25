@@ -9,6 +9,18 @@ After that, we will pass the information to a local LLM to make a summary of the
 This project is somehow similar to a previous one: https://github.com/fenris123/API-LLM-gTTS-homemade-alexa — but in that one we use a different API to obtain information about the weather.
 In addition, we use different libraries for the audio in this project: the reading is better and less "robotic".
 
+
+## WARNING
+
+DO NOT USE THIS AS A TOOL FOR MEDICAL INFORMATION.
+
+THIS IS MAINLY A PERSONAL PROYECT, MADE JUST FOR FUN, EXPERIMENTATION AND LEARNING.
+
+I think that it works very well but i can't promise that it makes no mistakes.
+
+
+
+
 # FILES
 
 Main file is "archivo_completo". This file contains the full script and can be used alone. It's the only thing that you need if you want to try this script.
